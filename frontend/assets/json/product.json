@@ -1,0 +1,26 @@
+[
+    {
+        "image": "./assets/img/hamburger/whiteShark.jpg",
+        "name": "Tubarão Branco",
+        "description": "Pão brioche levemente tostado, 180g de Carne Queijo cheddar derretido, alface crocante cebola roxa em rodelas finas",
+        "price": 12.00
+    },
+    {
+        "image": "./assets/img/hamburger/greatShark.jpg",
+        "name": "Grande Tubarão",
+        "description": "Pão de hambúrguer, 200g de Hambúrguer de frango, Bacon, tomate, cebola caram-elizada, alface americana",
+        "price": 16.00
+    },
+    {
+        "image": "./assets/img/hamburger/hammerShark.jpg",
+        "name": "Tubarão Martelo",
+        "description": "Pão Integral, molho de tahine com limão siciliano, abacate, tomate seco, pimen-tões grelhados, no pão integral de sementes, cortado em forma de 'martelo'.",
+        "price": 14.00
+    },
+    {
+        "image": "./assets/img/hamburger/whaleShark.jpg",
+        "name": "Tubarão Baleia",
+        "description": "Pão de hambúrguer, Hambúrguer de peixe com molho de iogurte, pepino, alface, cebola roxa tomate, no pão de abóbora e corante azul.",
+        "price": 20.00
+    }
+]
